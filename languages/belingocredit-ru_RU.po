@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: belingoCredit\n"
+"POT-Creation-Date: 2022-02-23 14:23+0300\n"
+"PO-Revision-Date: 2022-02-23 14:26+0300\n"
+"Last-Translator: \n"
+"Language-Team: belingo llc\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/CreditCalcClass (2).php:25
+msgid "rub."
+msgstr "руб."
+
+#: classes/CreditCalcClass (2).php:26
+msgid "$"
+msgstr "$"
+
+#: classes/CreditCalcClass (2).php:27 templates/belingoCreditTemplate
+#: (2).php:10
+msgid "Euro"
+msgstr "Евро"
+
+#: templates/belingoCreditTemplate (2).php:7
+msgid "Currency"
+msgstr "Валюта"
+
+#: templates/belingoCreditTemplate (2).php:8
+msgid "Ruble"
+msgstr "Рубль"
+
+#: templates/belingoCreditTemplate (2).php:9
+msgid "Dollar"
+msgstr "Доллар"
+
+#: templates/belingoCreditTemplate (2).php:15
+msgid "Credit amount"
+msgstr "Сумма кредита"
+
+#: templates/belingoCreditTemplate (2).php:18
+msgid "Loan term, months"
+msgstr "Срок кредита, мес."
+
+#: templates/belingoCreditTemplate (2).php:21
+msgid "Interest rate, %"
+msgstr "Процентная ставка, %"
+
+#: templates/belingoCreditTemplate (2).php:24
+msgid "Additional one-time payment"
+msgstr "Дополнительный разовый платеж"
+
+#: templates/belingoCreditTemplate (2).php:27 (2).php:59
+msgid "Additional monthly payment"
+msgstr "Дополнительный ежемесячный платеж"
+
+#: templates/belingoCreditTemplate (2).php:30
+msgid "Calculation method"
+msgstr "Метод расчета"
+
+#: templates/belingoCreditTemplate (2).php:31
+msgid "Annuity"
+msgstr "Аннуитет"
+
+#: templates/belingoCreditTemplate (2).php:32
+msgid "Differentiated"
+msgstr "Дифференцированный"
+
+#: templates/belingoCreditTemplate (2).php:38
+msgid "Calculate"
+msgstr "Рассчитать"
+
+#: templates/belingoCreditTemplate (2).php:47 (2).php:56
+msgid "Monthly payment"
+msgstr "Ежемесячный платеж"
+
+#: templates/belingoCreditTemplate (2).php:48
+msgid "Overpayment on a loan"
+msgstr "Переплата по кредиту"
+
+#: templates/belingoCreditTemplate (2).php:51
+msgid "Payment schedule"
+msgstr "График платежей"
+
+#: templates/belingoCreditTemplate (2).php:57
+msgid "Amortization"
+msgstr "Погашение долга"
+
+#: templates/belingoCreditTemplate (2).php:58
+msgid "Interest repayment"
+msgstr "Погашение процентов"
+
+#: templates/belingoCreditTemplate (2).php:60
+msgid "Remaining debt"
+msgstr "Остаток долга"
